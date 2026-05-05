@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Mallikarjun Mhetre
 
-🎓 Computer Science Student  
-💻 Learning: Python | Web Development | Git & GitHub  
+🎓 Aspiring Software Developer  
+💻 Focus: Web Development(HTML,CSS,JavaScript) | Git & GitHub  
 🚀 Goal: To become a skilled software developer  
 
 ---
 
 ## 🔥 About Me
-I am a passionate learner who is building real-world projects to improve coding skills and problem-solving ability. I believe in consistency and practical learning.
+I am a Computer Science Student focused on building real-world projects and contributing to open source. Currently improving my skills in web development and version control while actively participating in GSSoC 2026.I bellieve in learning by building and colllaborating. 
 
 ---
 
-## 🛠 Skills
+## 🛠 Skillsproje
 - Programming: Python (Basic)
 - Tools: Git, GitHub
 - Learning: HTML, CSS, JavaScript
