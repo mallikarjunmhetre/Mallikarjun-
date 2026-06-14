@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mallikarjun Mhetre
+# 👋 Hi, I'm Mallikarjun Methre
 
 🎓 Computer Science Student  
 💻 Learning: Python | Web Development | Git & GitHub  
