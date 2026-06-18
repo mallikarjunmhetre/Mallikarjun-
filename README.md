@@ -19,7 +19,7 @@ I am a passionate learner who is building real-world projects to improve coding 
 ---
 
 ## 📌 Projects
-### 1. Arjun Project
+### 1. Skillcraf Technology 
 - Description: Basic project to practice GitHub workflow
 - Tech: Python / Basic coding
 - Status: Ongoing
