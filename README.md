@@ -35,4 +35,4 @@ I am a passionate learner who is building real-world projects to improve coding 
 
 ## 📫 Contact
 - Email: mallikarjunmhetre 594@gmail.com
-- LinkedIn: ( Mallikarjunmhetre)
+- LinkedIn: ( Mallikarjun M)
